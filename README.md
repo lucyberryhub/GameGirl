@@ -1,4 +1,4 @@
-**🍓🎮 Create GameGirl game from scratch 🍒💖**  
+# **🍓🎮 Create GameGirl game from scratch 🍒💖**  
 
 ## 🍒✨ **Step 1: Set Up the GameGirl Dev Environment** 🎀  
 
